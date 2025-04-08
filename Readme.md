@@ -42,11 +42,11 @@ In this project, we aim to investigate the transcriptional regulatory landscape 
 
 To answer these broad questions we will perform various analyses below and adress more specific questions with the provided data. Individual groups will focus on specific cell lineages in more depth: 
 
-- **Group 1**: B cells
-- **Group 2**: abT & T.act cells
-- **Group 3**: abT & gdT cells
-- **Group 4**: ILC cells
-- **Group 5**: Myeloid, monocytes & DC cells
+- **Group 1**: B cells  
+- **Group 2**: abT & T.act cells  
+- **Group 3**: abT & gdT cells  
+- **Group 4**: ILC cells  
+
 
 1) Determine differences and similarities of the chromatin landscape between immune cells:
 	1) How variable is the chromatin signal within cells?
